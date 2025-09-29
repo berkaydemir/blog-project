@@ -19,3 +19,4 @@ Thumbs.db
 
 # Env / secrets (example)
 .env
+application.properties
